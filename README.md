@@ -1,5 +1,3 @@
-
-
 [Home Page](https://jayb133.github.io/JayB133/)
 
 ## Summary
